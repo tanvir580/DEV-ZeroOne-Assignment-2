@@ -719,6 +719,10 @@ textarea {
     font-size: 1em;
     color: #6e818a;
   }
+
+  .footer .f-button {
+    width: 40%;
+  }
 }
 
 /* Footer section ends */
